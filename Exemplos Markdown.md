@@ -102,3 +102,25 @@ Exemplo 2 | R$ 8
 Exemplo 3 | R$ 7
 Exemplo 4 | R$ 8
 
+### Alinhando Tabela
+
+Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
+
+Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
+
+Item | Item | Item
+:---- | :---- | :----
+Valor | Valor | Valor
+
+
+Alinhado a direita: usar : no lado direito;
+
+Item | Item | Item
+----: | ----: | ----:
+Valor | Valor | Valor
+
+Centralizado: usar : dos dois lados.
+
+Item | Item | Item
+:----: | :----: | :----:
+Valor | Valor | Valor
