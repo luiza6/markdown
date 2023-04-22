@@ -35,3 +35,10 @@ _Texto em Italico com **negrito** no meio_
 ### Inserir Imagem por Externa
 
 ![Imagem Externa](https://catrangers.files.wordpress.com/2012/09/sylvester-warner-brothers-animation-71715_1024_768.jpg)
+
+### Adicionar Links
+
+[Adobe](https://www.adobe.com)
+[https://www.adobe.com](https://www.adobe.com)
+[![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Imagem com link")](https://www.adobe.com)
+Contribuidor principal: https://github.com/luiza6
