@@ -108,7 +108,7 @@ Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao 
 
 Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
 
-Item | Item | Item
+Item alinhado| Item alinhado | Item alinhado
 :--------- | :--------- | :---------
 Valor | Valor | Valor
 
