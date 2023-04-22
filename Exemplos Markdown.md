@@ -46,7 +46,7 @@ _Texto em Italico com **negrito** no meio_
 
 
 
-### Inserir Imagem por Externa
+### Inserir Imagem Externa
 
 ![Imagem Externa](https://catrangers.files.wordpress.com/2012/09/sylvester-warner-brothers-animation-71715_1024_768.jpg)
 
@@ -55,10 +55,18 @@ _Texto em Italico com **negrito** no meio_
 ### Adicionar Links
 
 
-[Site](https://eletroshields.com.br)
+[Site](https://www.eletroshields.com.br/
 
-[https://eletroshields.com.br](https://eletroshields.com.br)
 
-[![Arduino Logo](https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png "Imagem com link")](https://eletroshields.com.br)
+
+[https://eletroshields.com.br](https://www.eletroshields.com.br/)
+
+
+
+
+[![Arduino Logo](https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png "Imagem com link")](https://www.eletroshields.com.br/)
+
+
+
 
 Contribuidor principal: https://github.com/luiza6
