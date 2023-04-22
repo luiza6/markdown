@@ -70,3 +70,19 @@ _Texto em Italico com **negrito** no meio_
 
 
 Contribuidor principal: https://github.com/luiza6
+
+
+### Código só no GitHub
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
+
+~~~javascript
+function soma(a, b){
+    return a + b;
+}
+~~~
+
