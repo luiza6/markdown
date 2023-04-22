@@ -88,6 +88,6 @@ function soma(a, b){
 
 ### Task lis - GitHub
 
-- [ x ] Tarefa completa
-- [] Tarefa a fazer
+- [x]  Tarefa completa
+- [ ] Tarefa a fazer
 
