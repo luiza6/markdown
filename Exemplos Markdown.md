@@ -115,12 +115,12 @@ Valor | Valor | Valor
 
 Alinhado a direita: usar : no lado direito;
 
-Item | Item | Item
+Item alinhado | Item alinhado | Item alinhado
 ---------: | ---------: | ---------:
 Valor | Valor | Valor
 
 Centralizado: usar : dos dois lados.
 
-Item | Item | Item
+Item alinhado | Item alinhado | Item alinhado
 :---------: | :---------: | :---------:
 Valor | Valor | Valor
