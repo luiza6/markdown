@@ -72,7 +72,7 @@ _Texto em Italico com **negrito** no meio_
 Contribuidor principal: https://github.com/luiza6
 
 
-### Código só no GitHub
+### Código - GitHub
 
 ```javascript
 function soma(a, b){
@@ -85,4 +85,9 @@ function soma(a, b){
     return a + b;
 }
 ~~~
+
+### Task lis - GitHub
+
+- [ x ] Tarefa completa
+- [] Tarefa a fazer
 
