@@ -30,7 +30,7 @@ _Texto em Italico com **negrito** no meio_
 
 ### Inserir Imagens Local
 
-![Imagem local](garfield.jpeg)
+![Imagem local](garfield.jpg)
 
 ### Inserir Imagem por Externa
 
