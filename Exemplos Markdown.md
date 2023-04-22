@@ -10,15 +10,15 @@
 ### Negrito e Itálico
 
 
-Negrito **__negrito__** ou __**negrito**__
+Negrito **negrito** ou __negrito__
 
-Itálico *_itálico_* ou _*itálic*o_
+Itálico *itálico* ou _itálico_
 
-Negrito e Itálico _***__Negrito e Itálico__***_
+Negrito e Itálico _**Negrito e Itálico**_
 
-__**Texto em Negrito com *_Itálico_* no meio**__
+**Texto em Negrito com *Itálico* no meio**
 
-_*Texto em Italico com **__negrito__** no meio*_
+*Texto em Italico com **negrito** no meio*
 
 
 
