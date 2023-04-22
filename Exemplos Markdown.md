@@ -109,18 +109,18 @@ Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao 
 Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
 
 Item | Item | Item
-:---- | :---- | :----
+:--------- | :--------- | :---------
 Valor | Valor | Valor
 
 
 Alinhado a direita: usar : no lado direito;
 
 Item | Item | Item
-----: | ----: | ----:
+---------: | ---------: | ---------:
 Valor | Valor | Valor
 
 Centralizado: usar : dos dois lados.
 
 Item | Item | Item
-:----: | :----: | :----:
+:---------: | :---------: | :---------:
 Valor | Valor | Valor
