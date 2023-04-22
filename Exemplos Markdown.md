@@ -27,3 +27,11 @@ _Texto em Italico com **negrito** no meio_
 * Um
 * Dois
 * Três
+
+### Inserir Imagens Local
+
+![Imagem local](img/garfield.webp)
+
+### Inserir Imagem por Externa
+
+![Imagem Externa](https://catrangers.files.wordpress.com/2012/09/sylvester-warner-brothers-animation-71715_1024_768.jpg)
