@@ -79,7 +79,7 @@ Negrito e Itálico _**Negrito e Itálico**_
 * Dois
 * Três
 
-* 
+
 ### Inserir Imagens Local
 
 
@@ -121,25 +121,11 @@ Negrito e Itálico _**Negrito e Itálico**_
 ### Código - GitHub
 
 
-~~~ ```javascript
-function soma(a, b){
-    return a + b;
-}
-``` ~~~
-
-
 ```javascript
 function soma(a, b){
     return a + b;
 }
 ```
-
-
-```~~~javascript
-function soma(a, b){
-    return a + b;
-}
-~~~```
 
 
 ~~~javascript
@@ -154,7 +140,8 @@ function soma(a, b){
 
 ```
 - [x]  Tarefa completa
-- [ ] Tarefa a fazer ```
+- [ ] Tarefa a fazer
+```
 
 
 
@@ -226,7 +213,8 @@ Item alinhado | Item alinhado | Item alinhado
 :---------: | :---------: | :---------:
 Valor | Valor | Valor
 ```
-<b>
+
+
 Item alinhado | Item alinhado | Item alinhado
 :---------: | :---------: | :---------:
 Valor | Valor | Valor
